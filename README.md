@@ -4,6 +4,14 @@ Ejercicio integrador de los conceptos vistos sobre HTML5.
 
 ## Parte 1
 
+## Tiempo para resolverlo (Parte 1)
+
+1 semana.
+
+## Fecha de entrega (Parte 1)
+
+21/23 de Marzo, dependiendo en qué grupo estés.
+
 ### Consigna
 
 1. Dividirse en grupos de 2 estudiantes. 
