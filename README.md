@@ -37,15 +37,15 @@ footer
     a [9]
 ```
 
-[1]: Título del diario.
-[2]: Lista de tematicas/secciones. Acá marcamos en negrita (y en otro color) la que corresponda, es decir, la actual donde estamos ahora.
-[3]: Título de la noticia.
-[4]: Imagen relacionada a la noticia. Debe tener los atributos `src` y `alt`!
-[5]: Texto con el contenido de la noticia. Debe tener links (absolutos o relativos) en alguna parte del texto para leer más sobre algún tema.
-[6]: Imagen de publicidad/spam, preferentemente relacionada al contenido de la noticia.
-[7]: Texto de Copyright.
-[8]: Link absoluto hacia algún sitio externo.
-[9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).
+[1]: Título del diario.  
+[2]: Lista de tematicas/secciones. Acá marcamos en negrita (y en otro color) la que corresponda, es decir, la actual donde estamos ahora.  
+[3]: Título de la noticia.  
+[4]: Imagen relacionada a la noticia. Debe tener los atributos `src` y `alt`!  
+[5]: Texto con el contenido de la noticia. Debe tener links (absolutos o relativos) en alguna parte del texto para leer más sobre algún tema.  
+[6]: Imagen de publicidad/spam, preferentemente relacionada al contenido de la noticia.  
+[7]: Texto de Copyright.  
+[8]: Link absoluto hacia algún sitio externo.  
+[9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).  
 
 ### Importante 
 
