@@ -16,7 +16,7 @@ h1 {
 
 .portada {
     display: block;
-    width: 80vw;
+    width: 500px;
     margin: auto;
 }
 
@@ -29,6 +29,19 @@ figcaption {
     text-align: center;
 }
 
+article {
+    display: inline-block;
+    width: 69%;
+    padding: 0 40px;
+}
+
 aside {
-    width: 40vw;
+    width: 20%;
+    display: inline-block;
+    position: relative;
+    top: -140px;
+}
+
+footer, header {
+    padding: 0 40px;
 }
