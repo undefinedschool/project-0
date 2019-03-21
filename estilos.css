@@ -1,9 +1,26 @@
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightgoldenrodyellow;
 }
 
-header p {
+main {
+    background-color: yellow;
+}
+
+header {
     font-weight: bolder;
+    background-color: lightgreen;
+}
+
+li {
+    display: inline;
+    width: 500px;
+    list-style: none;
+    background-color: lightskyblue;
+}
+
+article {
+    background-color: pink;
 }
 
 strong {
@@ -33,13 +50,15 @@ article {
     display: inline-block;
     width: 69%;
     padding: 0 40px;
+    font-size: 150%;
 }
 
 aside {
     width: 20%;
     display: inline-block;
     position: relative;
-    top: -140px;
+    vertical-align: top;
+    margin-top: 200px;
 }
 
 footer, header {
