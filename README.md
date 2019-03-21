@@ -6,7 +6,7 @@ Ejercicio integrador de los conceptos vistos sobre HTML5.
 
 ## Tiempo para resolverlo (Parte 1)
 
-1 semana.
+4 semanas.
 
 ## Fecha de entrega (Parte 1)
 
