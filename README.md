@@ -135,11 +135,10 @@ footer
 3. La noticia debe contener **al menos 3 párrafos** [10].
 4. Agregar un `p` con un margen inferior de `30px`antes del primer párrafo de la noticia, en color `#808080` y tamaño `0.75` (respecto del tamaño base), que contenga el texto `<FECHA> - <HORA>`, ejemplo `23 de Marzo de 2019 - 12:36`.
 5. Agregar una 2da imagen (con su correspondiente caption) relacionada a la noticia.
-6. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
-7. Agregar un `p`[16] al final del texto de la noticia, con un margen superior de `25px`, que contenga el texto "Por:" seguido de links absolutos a los perfiles de GitHub de lxs autores del proyecto (Por: [repo-user-1](#) - [repo-user-2](#)).
-8. Agregar un `hr` [15] antes del `footer`, con un margen superior de `45px`y los siguientes estilos: `border: 0.5px solid #808080;`, ancho del 80% y opacidad `0.3`. 
-9. Modificar el `footer` para que quede similar al de la imagen de referencia (ver abajo): un `p` con el texto Código fuente: [repo-1](#) | [repo-2](#), que linkee a los repositorios del sitio de cada autor del proyecto, el link de Volver al inicio debajo (ver siguiente ítem) y el texto de copyright centrado, entre ambos links.
-10. El link restante del `footer` [14] debe continuar siendo un link con el texto "Volver al inicio", que nos lleve hacia el `header`del sitio.
+6. Agregar un `p`[16] al final del texto de la noticia, con un margen superior de `25px`, que contenga el texto "Por:" seguido de links absolutos a los perfiles de GitHub de lxs autores del proyecto (Por: [repo-user-1](#) - [repo-user-2](#)).
+7. Agregar un `hr` [15] antes del `footer`, con un margen superior de `45px`y los siguientes estilos: `border: 0.5px solid #808080;`, ancho del 80% y opacidad `0.3`. 
+8. Modificar el `footer` para que quede similar al de la imagen de referencia (ver abajo): un `p` con el texto Código fuente: [repo-1](#) | [repo-2](#), que linkee a los repositorios del sitio de cada autor del proyecto, el link de Volver al inicio debajo (ver siguiente ítem) y el texto de copyright centrado, entre ambos links.
+9. El link restante del `footer` [14] debe continuar siendo un link con el texto "Volver al inicio", que nos lleve hacia el `header`del sitio.
 
 #### Imagen de referencia
 
@@ -159,3 +158,4 @@ footer
 2. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
 3. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
 4. Transformar los `h3` para que siempre se vean en mayúsculas.
+5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
