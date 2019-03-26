@@ -68,6 +68,7 @@ Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer 
 - El proyecto debe resolverse con el mismo grupo con el que hiciste la 1er parte del mismo.
 - Utilizar **Git y GitHub** para colaborar y trabajar en conjunto.
 - Ambos miembros del equipo deben presentar **el mismo proyecto**, no 2 versiones individuales.
+- Se va a evaluar la **reutilización de estilos en CSS**. También que, preferentemente se utilicen selectores de clase sobre cualquier otro.
 
 #### Estilos CSS
 
