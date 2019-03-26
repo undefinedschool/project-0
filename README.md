@@ -4,11 +4,7 @@ Ejercicio integrador de los conceptos vistos sobre HTML5.
 
 ## Parte 1
 
-## Tiempo para resolverlo (Parte 1)
-
-1 semana.
-
-## Fecha de entrega (Parte 1)
+### Fecha de entrega (Parte 1)
 
 21/23 de Marzo, dependiendo en qué grupo estés.
 
@@ -55,3 +51,94 @@ footer
 [7]: Texto de Copyright.  
 [8]: Link absoluto hacia algún sitio externo.  
 [9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).  
+
+## Parte 2
+
+### Fecha de entrega (Parte 2)
+
+28/30 de Marzo, dependiendo en qué grupo estés.
+
+### Consigna
+
+Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer algunas modificaciones a nuestro documento. Al final se incluye una imagen de referencia para visualizar mejor las modificaciones.
+
+**Importante:** esta 2da parte NO incluye modificaciones del CSS correspondiente al *layout* del contenido (los elementos en bloque seguirán quedando uno debajo del otro), eso quedará para la 3ra. parte del proyecto.
+
+#### Estilos CSS
+
+1. *Aplanar* lista de temáticas/secciones, es decir, que la lista se vea horizontal, con los ítems uno al lado del otro.
+2. Sacarle los bullets/viñetas a la lista de temmáticas/secciones.
+3. Definir un tamaño base para la fuente de nuestro documento en `18px`.
+4. Definir un tamaño relativo para los `h1` que sea 2.25 veces más grande que el tamaño base.
+5. Definir un tamaño relativo para los `h2` que sea 1.75 veces más grande que el tamaño base.
+6. Definir un tamaño relativo para los `h3` que sea 1.4 veces más grande que el tamaño base.
+7. Definir el color `#fafafa` como color de fondo de nuestro sitio.
+8. Definir el color `#24292e` como color para el texto de nuestro sitio (`h1`, `h2`, `h3` y `p`).
+9. Definir alguna tipografía distinta a la default para los `p`. Esta fuente debe ser [safe web](http://web.mit.edu/jmorzins/www/fonts.html) para asegurarnos compatibilidad independientemente del sistema operativo del usuario.
+10. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
+11. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
+12. Transformar los `h3` para que siempre se vean en mayúsculas.
+
+#### Cambios en el HTML
+
+La estructura de nuestro sitio va a modificarse ligeramente y quedar de esta forma
+
+```
+header
+    p
+    nav
+        ul
+main               
+    article
+        section
+            h1
+        figure
+            img
+            figcaption
+        section
+            p [10]
+            p
+            p
+            figure
+                img
+                figcaption
+            p [16]
+    section [11]
+            h2
+        article
+            h3
+            figure
+                img
+                figcaption
+        article
+            h3
+            figure
+                img
+                figcaption
+    aside
+        h3 [12]
+        img
+
+hr [15]
+footer
+    a [13]
+    a [14]
+    p
+```
+
+
+1. Agregar una nueva section [11] que contiene lo siguiente: 2 `articles`, correspondientes a 2 noticias recomendadas (no necesariamente relacionadas a la que estamos leyendo), con sus correspondientes títulos (`h3`) e imágenes descriptivas.
+2. Agregarle un `h3` al `aside` que contiene la publicidad, con el texto `PUBLICIDAD` [12].
+3. La noticia debe contener **al menos 3 párrafos** [10].
+4. Agregar un `p` con un margen inferior de `30px`antes del primer párrafo de la noticia, en color `#808080` y tamaño `0.75` (respecto del tamaño base), que contenga el texto `<FECHA> - <HORA>`, ejemplo `23 de Marzo de 2019 - 12:36`.
+5. Agregar una 2da imagen (con su correspondiente caption) relacionada a la noticia.
+6. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
+7. Agregar un `p`[16] al final del texto de la noticia, con un margen superior de `25px`, que contenga el texto "Por:" seguido de links absolutos a los perfiles de GitHub de lxs autores del proyecto (Por: [repo-user-1](#) - [repo-user-2](#)).
+8. Agregar un `hr` [15] antes del `footer`, con un margen superior de `45px`y los siguientes estilos: `border: 0.5px solid #808080;`, ancho del 80% y opacidad `0.3`. 
+9. Modificar el `footer` para que quede similar al de la imagen de referencia (ver abajo): un `p` con el texto Código fuente: [repo-1](#) | [repo-2](#), que linkee a los repositorios del sitio de cada autor del proyecto, el link de Volver al inicio debajo (ver siguiente ítem) y el texto de copyright centrado, entre ambos links.
+10. El link restante del `footer` [14] debe continuar siendo un link con el texto "Volver al inicio", que nos lleve hacia el `header`del sitio.
+
+#### Imagen de referencia
+
+![](https://i.imgur.com/f5OIzcq.jpg)
+
