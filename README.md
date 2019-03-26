@@ -52,6 +52,8 @@ footer
 [8]: Link absoluto hacia algún sitio externo.  
 [9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).  
 
+---
+
 ## Parte 2
 
 ### Fecha de entrega (Parte 2)
@@ -81,9 +83,6 @@ Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer 
 7. Definir el color `#fafafa` como color de fondo de nuestro sitio.
 8. Definir el color `#24292e` como color para el texto de nuestro sitio (`h1`, `h2`, `h3` y `p`).
 9. Definir alguna tipografía distinta a la default para los `p`. Esta fuente debe ser [safe web](http://web.mit.edu/jmorzins/www/fonts.html) para asegurarnos compatibilidad independientemente del sistema operativo del usuario.
-10. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
-11. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
-12. Transformar los `h3` para que siempre se vean en mayúsculas.
 
 #### Cambios en el HTML
 
@@ -132,7 +131,6 @@ footer
     p
 ```
 
-
 1. Agregar una nueva section [11] que contiene lo siguiente: 2 `articles`, correspondientes a 2 noticias recomendadas (no necesariamente relacionadas a la que estamos leyendo), con sus correspondientes títulos (`h3`) e imágenes descriptivas.
 2. Agregarle un `h3` al `aside` que contiene la publicidad, con el texto `PUBLICIDAD` [12].
 3. La noticia debe contener **al menos 3 párrafos** [10].
@@ -148,3 +146,16 @@ footer
 
 ![](https://i.imgur.com/f5OIzcq.jpg)
 
+---
+
+## Parte 3 [WIP]
+
+### Fecha de entrega (Parte 3)
+
+4/6 de Abril, dependiendo en qué grupo estés.
+
+#### Estilos CSS
+
+1. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
+2. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
+3. Transformar los `h3` para que siempre se vean en mayúsculas.
