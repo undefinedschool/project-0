@@ -82,7 +82,6 @@ Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer 
 6. Definir un tamaño relativo para los `h3` que sea 1.4 veces más grande que el tamaño base.
 7. Definir el color `#fafafa` como color de fondo de nuestro sitio.
 8. Definir el color `#24292e` como color para el texto de nuestro sitio (`h1`, `h2`, `h3` y `p`).
-9. Definir alguna tipografía distinta a la default para los `p`. Esta fuente debe ser [safe web](http://web.mit.edu/jmorzins/www/fonts.html) para asegurarnos compatibilidad independientemente del sistema operativo del usuario.
 
 #### Cambios en el HTML
 
@@ -156,6 +155,7 @@ footer
 
 #### Estilos CSS
 
-1. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
-2. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
-3. Transformar los `h3` para que siempre se vean en mayúsculas.
+1. Definir alguna tipografía distinta a la default para los `p`. Esta fuente debe ser [safe web](http://web.mit.edu/jmorzins/www/fonts.html) para asegurarnos compatibilidad independientemente del sistema operativo del usuario.
+2. Elegir alguna fuente de [Google Fonts](http://fonts.google.com) para los `h1` y usarla con el `font-weight` correspondiente a `bold`.
+3. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
+4. Transformar los `h3` para que siempre se vean en mayúsculas.
