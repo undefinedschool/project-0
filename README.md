@@ -62,7 +62,12 @@ footer
 
 Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer algunas modificaciones a nuestro documento. Al final se incluye una imagen de referencia para visualizar mejor las modificaciones.
 
-**Importante:** esta 2da parte NO incluye modificaciones del CSS correspondiente al *layout* del contenido (los elementos en bloque seguirán quedando uno debajo del otro), eso quedará para la 3ra. parte del proyecto.
+#### Importante
+
+- Esta 2da parte **NO** incluye modificaciones del CSS correspondiente al *layout* del contenido (los elementos en bloque seguirán quedando uno debajo del otro), eso quedará para la 3ra. parte del proyecto.
+- El proyecto debe resolverse con el mismo grupo con el que hiciste la 1er parte del mismo.
+- Utilizar **Git y GitHub** para colaborar y trabajar en conjunto.
+- Ambos miembros del equipo deben presentar **el mismo proyecto**, no 2 versiones individuales.
 
 #### Estilos CSS
 
