@@ -99,3 +99,9 @@ footer {
 .copyright {
     text-align: center;
 }
+
+.azafata {
+    width: 500px;
+    margin: 0 auto;
+    display: block;
+}
