@@ -73,3 +73,29 @@ aside {
 footer, header {
     padding: 0 40px;
 }
+
+.fecha {
+    color: #808080;
+    font-size: 075 em;
+    margin-bottom: 30px;
+}
+
+.por {
+    margin-top: 25px;
+}
+
+.separador {
+    margin-top: 45px;
+    border: 0.5px solide #808080;
+    width: 80%;
+    opacity: 0.3;
+}
+
+footer {
+    font-size: 0.5em;
+    color: #808080;
+}
+
+.copyright {
+    text-align: center;
+}
