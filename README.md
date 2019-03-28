@@ -75,7 +75,7 @@ Para esta 2da parte, vamos a comenzar a aplicar estilos a nuestro sitio y hacer 
 #### Estilos CSS
 
 1. *Aplanar* lista de temáticas/secciones, es decir, que la lista se vea horizontal, con los ítems uno al lado del otro.
-2. Sacarle los bullets/viñetas a la lista de temmáticas/secciones.
+2. Sacarle los bullets/viñetas a la lista de temáticas/secciones.
 3. Definir un tamaño base para la fuente de nuestro documento en `18px`.
 4. Definir un tamaño relativo para los `h1` que sea 2.25 veces más grande que el tamaño base.
 5. Definir un tamaño relativo para los `h2` que sea 1.75 veces más grande que el tamaño base.
