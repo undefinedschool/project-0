@@ -1,4 +1,6 @@
 .navbar li {
   display: inline;
   list-style-type: none;
+  margin: 0px 10px 0px 10px;
 }
+
