@@ -159,3 +159,5 @@ footer
 3. Elegir otra fuente de [Google Fonts](http://fonts.google.com) para los `h2` y `h3`. Usarla con el `font-weight` correspondiente a `bold` (`h1`, `h2/h3` y `p`deben tener tipografías distintas).
 4. Transformar los `h3` para que siempre se vean en mayúsculas.
 5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. Pista: alcanza con modificar ancho y alto de las mismas.
+
+-Marirumo
