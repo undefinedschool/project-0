@@ -15,12 +15,12 @@ nav > ul > li {
     list-style: none;
 }
 
-p{
-    font-family: Helvetica;
-}
-  
 h1, h2, h3, p {
     color: #24292e;
+}
+
+p{
+    font-family: Helvetica;
 }
   
 h1 {
@@ -29,18 +29,18 @@ h1 {
     font-family: 'Montserrat', sans-serif; 
     font-weight: bold;                     
 }
-  
+
+h2, h3 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+}
+
 h2 {
     font-size: 1.75em;
-    font-family: 'Roboto Condensed', sans-serif; /* REPETICION CON H3 */
-    font-weight: bold; /* REPETICION CON H3 */
 }
   
 h3 {
     font-size: 1.4em;
-    text-transform: uppercase;
-    font-family: 'Roboto Condensed', sans-serif; /* REPETICION CON H2 */
-    font-weight: bold; /* REPETICION CON H2 */
     text-transform: uppercase;
 }
   
@@ -51,7 +51,7 @@ h3 {
 }
   
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
   
