@@ -1,7 +1,6 @@
 body {
   font-size: 18px;
   background-color: #fafafa;
-
 }
 .navbar li {
   display: inline;
@@ -9,20 +8,28 @@ body {
   margin: 0px 10px 0px 10px;
 }
 
-.title{
+.title {
   font-size: 2.25em;
 }
 
 /*Esta clase es para los H2*/
-.title2{
- font-size: 1.75em;
+.title2 {
+  font-size: 1.75em;
 }
 
 /*Esta clase es para los H3*/
-.title3{
+.title3 {
   font-size: 1.4em;
 }
 
-.title,.title2,.title3,.parragraph{
-  color:#24292e;
+.title,
+.title2,
+.title3,
+.parragraph {
+  color: #24292e;
+}
+.date {
+  margin-bottom: 30px;
+  color: #808080;
+  font-size: 0.75em;
 }
