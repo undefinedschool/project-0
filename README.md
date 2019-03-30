@@ -57,6 +57,5 @@ footer
 [9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).  
 
 
+Camilo
 
-
-- Luciano
