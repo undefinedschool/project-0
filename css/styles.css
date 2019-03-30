@@ -36,3 +36,12 @@ body {
 .creators {
   margin-top: 25px;
 }
+.divisor {
+  margin-top: 45px;
+  border: 0.5px solid #808080;
+  width: 80%;
+  opacity: 0.3;
+}
+.copyright {
+  text-align: center;
+}
