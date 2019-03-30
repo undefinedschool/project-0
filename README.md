@@ -55,3 +55,5 @@ footer
 [7]: Texto de Copyright.  
 [8]: Link absoluto hacia algún sitio externo.  
 [9]: Link que nos lleve hacia el header del diario (usar `id=header` para identificarlo).  
+
+Camilo
