@@ -150,7 +150,7 @@ footer
 
 ### Fecha de entrega (Parte 3)
 
-TBD.
+11/13 de Abril, dependiendo en qué grupo estés.
 
 #### Estilos CSS
 
