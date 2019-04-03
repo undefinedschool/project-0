@@ -161,3 +161,4 @@ TBD.
 5. Agregarle los estilos correspondientes a todas las imágenes del sitio para que sean *responsive*. **Pista:** alcanza con modificar ancho y alto de las mismas.
 6. Modificar el estilo de los links (anchors) de nuestra página, para que no tengan subrayado y su color sea `#0074c4`.
 7. *TBD: color y text-decoration de anchors on hover.*
+8. *TBD elementos aside y recomendados flotados a la derecha.*
