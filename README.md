@@ -146,7 +146,7 @@ footer
 
 ---
 
-## Parte 3 [WIP]
+## Parte 3
 
 ### Fecha de entrega (Parte 3)
 
