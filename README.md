@@ -1,4 +1,4 @@
-# project-zero
+# Project 0
 
 Ejercicio integrador de los conceptos vistos sobre HTML5 y CSS3.
 
